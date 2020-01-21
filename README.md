@@ -1,6 +1,6 @@
 # GDG Abomey-Calavi,  2019
 
-## Getting Started
+## Winner @Jide
 
 This a winer of the Mobile App UI Challenge that we organize at the Devfest 2019.
 
