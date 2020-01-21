@@ -1,15 +1,20 @@
-# gdg_calavi_ui
+# GDG Abomey-Calavi,  2019
 
 A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This a winer of the Mobile App UI Challenge that we organize at the Devfest 2019.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="screenshots/2019-12-06 17.41.01.jpg" style="width:300px;height:640px;">
+<img src="screenshots/2019-12-06 17.40.56.jpg" style="width:300px;height:640px;">
+<img src="screenshots/2019-12-06 17.40.52.jpg" style="width:300px;height:640px;">
+<img src="screenshots/2019-12-06 17.40.46.jpg" style="width:300px;height:640px;">
+<img src="screenshots/2019-12-06 17.36.47.jpg" style="width:300px;height:640px;">
+<img src="screenshots/2019-12-06 17.36.43.jpg" style="width:300px;height:640px;">
+<img src="screenshots/2019-12-06 17.36.38.jpg" style="width:300px;height:640px;">
+<img src="screenshots/2019-12-06 17.36.34.jpg" style="width:300px;height:640px;">
+<img src="screenshots/2019-12-06 17.36.18.jpg" style="width:300px;height:640px;">
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
